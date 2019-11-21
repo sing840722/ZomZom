@@ -1,0 +1,185 @@
+# Blender MTL File: 'None'
+# Material Count: 14
+
+newmtl Material__6218
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\7b26aa4d_Defuse.tga
+map_Bump Textures\\7b26aa4d_Normal.tga
+map_Ka Textures\\7b26aa4d_Defuse.tga
+
+newmtl Material__6219
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\1bda4806_Defuse.tga
+map_Bump Textures\\1bda4806_Normal.tga
+map_Ka Textures\\1bda4806_Defuse.tga
+map_d Textures\\1bda4806_Alpha.tga
+
+newmtl Material__6220
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\00925fb3_Defuse.tga
+map_Bump Textures\\00925fb3_Normal.tga
+map_Ka Textures\\00925fb3_Defuse.tga
+
+newmtl Material__6221
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\f779c12a_Defuse.tga
+map_Bump Textures\\f779c12a_Normal.tga
+map_Ka Textures\\f779c12a_Defuse.tga
+
+newmtl Material__6222
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\09dbc9a9_Defuse.tga
+map_Bump Textures\\09dbc9a9_Normal.tga
+map_Ka Textures\\09dbc9a9_Defuse.tga
+
+newmtl Material__6223
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\ce35a7f8_Defuse.tga
+map_Bump Textures\\ce35a7f8_Normal.tga
+map_Ka Textures\\ce35a7f8_Defuse.tga
+
+newmtl Material__6224
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\6e2fc158_Defuse.tga
+map_Bump Textures\\6e2fc158_Normal.tga
+map_Ka Textures\\6e2fc158_Defuse.tga
+
+newmtl Material__6225
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\b98d8325_Defuse.tga
+map_Bump Textures\\b98d8325_Normal.tga
+map_Ka Textures\\b98d8325_Defuse.tga
+
+newmtl Material__6226
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\d4afa143_Defuse.tga
+map_Bump Textures\\d4afa143_Normal.tga
+map_Ka Textures\\d4afa143_Defuse.tga
+
+newmtl Material__6227
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\d1c3d725_Defuse.tga
+map_Bump Textures\\d1c3d725_Normal.tga
+map_Ka Textures\\d1c3d725_Defuse.tga
+
+newmtl Material__6228
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\bbb4258c_Defuse.tga
+map_Bump Textures\\bbb4258c_Normal.tga
+map_Ka Textures\\bbb4258c_Defuse.tga
+
+newmtl Material__6229
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\d1c3d725_Defuse.tga
+map_Bump Textures\\d1c3d725_Normal.tga
+map_Ka Textures\\d1c3d725_Defuse.tga
+
+newmtl Material__6230
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\ee22d6e4_Defuse.tga
+map_Bump Textures\\ee22d6e4_Normal.tga
+map_Ka Textures\\ee22d6e4_Defuse.tga
+
+newmtl Material__6231
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures\57c1696e_Defuse.tga
+map_Bump Textures\\57c1696e_Normal.tga
+map_Ka Textures\\57c1696e_Defuse.tga
