@@ -21,10 +21,12 @@ Right Click to Zoom In/Out
 
 Move the mouse cursor to aim
 
+Character automatically walk forward
+
 ## Download and Play
 `This game is built for Windows`
 
-[Click Here To Download](https://drive.google.com/open?id=16hGR5GjwmlzY6JGYgja0SRZj3r9OprtE)
+[Click Here To Download](https://drive.google.com/open?id=1bO31kTlDO5IT2d-yMJJhg4sf1a0k27AO)
 
 ## Run the Project
 1. Clone this project 
